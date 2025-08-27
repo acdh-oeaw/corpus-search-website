@@ -1,13 +1,13 @@
 {
-	"title": "ACDH-CH Website",
-	"description": "Eine Projekt-Website.",
-	"twitter": {
-		"creator": "@acdh_oeaw",
-		"site": "@acdh_oeaw"
-	},
-	"manifest": {
-		"name": "ACDH-CH Website",
-		"short-name": "ACDH-CH Website",
-		"description": "Eine Projekt-Website."
-	}
+  "title": "Korpus Suche",
+  "description": "Startseite der ACDH-Korpus-Suche",
+  "twitter": {
+    "creator": "@acdh_oeaw",
+    "site": "@acdh_oeaw"
+  },
+  "manifest": {
+    "name": "Korpus Suche",
+    "short-name": "Korpus Suche",
+    "description": "Startseite der ACDH-Korpus-Suche"
+  }
 }
